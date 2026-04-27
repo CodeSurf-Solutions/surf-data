@@ -1,0 +1,348 @@
+{
+  "items": [
+    {
+      "id": "bantham-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Bantham Beach",
+      "url": "https://www.google.com/search?q=Bantham+Beach+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner to Intermediate",
+      "content": "<p>One of South Devon’s best-known surf beaches, offering approachable waves on smaller days and more punch when swell fills Bigbury Bay.</p>\n<ul>\n<li><strong>Vibe:</strong> Scenic, popular and classic South Devon</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South-west groundswell; lighter northerly/easterly winds; check estuary currents</li>\n<li><strong>Access:</strong> Beach access from car park and village approach</li>\n<li><strong>Parking:</strong> Paid car park near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Bantham+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Bantham+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Bantham Beach, South Devon, UK",
+      "latitude": "50.281",
+      "longitude": "-3.889",
+      "website": "https://www.google.com/search?q=Bantham+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-bantham-beach",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "bigbury-on-sea",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Bigbury-on-Sea",
+      "url": "https://www.google.com/search?q=Bigbury-on-Sea+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner to Intermediate",
+      "content": "<p>A broad sandy beach facing Burgh Island with manageable surf on good days. Useful for learners and relaxed sessions when the swell is not too heavy.</p>\n<ul>\n<li><strong>Vibe:</strong> Open, scenic and family-friendly</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South-west swell; light northerly winds; mid tide often useful</li>\n<li><strong>Access:</strong> Easy beach access from seafront</li>\n<li><strong>Parking:</strong> Paid parking above/near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Bigbury-on-Sea+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Bigbury-on-Sea+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Bigbury-on-Sea, South Devon, UK",
+      "latitude": "50.278",
+      "longitude": "-3.895",
+      "website": "https://www.google.com/search?q=Bigbury-on-Sea+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-bigbury-on-sea",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "challaborough-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Challaborough Bay",
+      "url": "https://www.google.com/search?q=Challaborough+Bay+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Intermediate",
+      "content": "<p>A small bay that can produce fun, more powerful waves than nearby beginner beaches. Better for confident surfers when conditions pick up.</p>\n<ul>\n<li><strong>Vibe:</strong> Compact, punchy and sheltered by cliffs</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> South-west swell; clean with northerly winds; check rocks and tide</li>\n<li><strong>Access:</strong> Access from holiday park/beach area</li>\n<li><strong>Parking:</strong> Paid/holiday park area parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Challaborough+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Challaborough+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Challaborough Bay, South Devon, UK",
+      "latitude": "50.284",
+      "longitude": "-3.893",
+      "website": "https://www.google.com/search?q=Challaborough+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "images": [
+        {
+          "id": "img-challaborough-bay",
+          "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "thurlestone-sands",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Thurlestone Sands",
+      "url": "https://www.google.com/search?q=Thurlestone+Sands+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner to Intermediate",
+      "content": "<p>A scenic beach that can work when South Devon has enough swell. Usually more relaxed than the better-known spots nearby.</p>\n<ul>\n<li><strong>Vibe:</strong> Quiet, open and scenic</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South-west swell; light offshore winds; best on clean smaller days</li>\n<li><strong>Access:</strong> Access from local car parks and coastal paths</li>\n<li><strong>Parking:</strong> Paid/local parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Thurlestone+Sands+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Thurlestone+Sands+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Thurlestone Sands, South Devon, UK",
+      "latitude": "50.27",
+      "longitude": "-3.861",
+      "website": "https://www.google.com/search?q=Thurlestone+Sands+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-thurlestone-sands",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "south-milton-sands",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "South Milton Sands",
+      "url": "https://www.google.com/search?q=South+Milton+Sands+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner to Intermediate",
+      "content": "<p>A broad, scenic beach near Thurlestone that can offer gentle waves when swell reaches the bay. A good scenic check rather than a high-consistency spot.</p>\n<ul>\n<li><strong>Vibe:</strong> Natural, peaceful and scenic</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South-west swell; light north/east winds; check tide and rocks</li>\n<li><strong>Access:</strong> Access via National Trust/local parking and beach paths</li>\n<li><strong>Parking:</strong> Paid/National Trust parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=South+Milton+Sands+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=South+Milton+Sands+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "South Milton Sands, South Devon, UK",
+      "latitude": "50.266",
+      "longitude": "-3.856",
+      "website": "https://www.google.com/search?q=South+Milton+Sands+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "smallThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "largeThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "originalThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "images": [
+        {
+          "id": "img-south-milton-sands",
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "mothecombe-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Mothecombe Beach",
+      "url": "https://www.google.com/search?q=Mothecombe+Beach+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner to Intermediate",
+      "content": "<p>A beautiful, more tucked-away beach that can pick up surf in the right conditions. Good for quieter sessions when swell and access align.</p>\n<ul>\n<li><strong>Vibe:</strong> Quiet, sheltered and natural</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South-west swell; clean in north/east winds; check access times and tide</li>\n<li><strong>Access:</strong> Access through estate/beach paths; seasonal restrictions may apply</li>\n<li><strong>Parking:</strong> Paid/private parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Mothecombe+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Mothecombe+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Mothecombe Beach, South Devon, UK",
+      "latitude": "50.312",
+      "longitude": "-3.945",
+      "website": "https://www.google.com/search?q=Mothecombe+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "images": [
+        {
+          "id": "img-mothecombe-beach",
+          "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "wonwell-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Wonwell Beach",
+      "url": "https://www.google.com/search?q=Wonwell+Beach+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Intermediate",
+      "content": "<p>A quieter spot near the Erme estuary where conditions are tide-sensitive. Best for surfers who are happy to explore and assess conditions carefully.</p>\n<ul>\n<li><strong>Vibe:</strong> Remote, estuary-influenced and peaceful</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> South-west swell with suitable tide; check estuary currents</li>\n<li><strong>Access:</strong> Walk-in access; tide and river conditions matter</li>\n<li><strong>Parking:</strong> Limited village/local parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Wonwell+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Wonwell+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Wonwell Beach, South Devon, UK",
+      "latitude": "50.309",
+      "longitude": "-3.943",
+      "website": "https://www.google.com/search?q=Wonwell+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "images": [
+        {
+          "id": "img-wonwell-beach",
+          "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "hope-cove",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Hope Cove",
+      "url": "https://www.google.com/search?q=Hope+Cove+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner to Intermediate",
+      "content": "<p>A sheltered cove that needs the right swell to work. More of a scenic option for small fun waves than a high-consistency surf beach.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, pretty and village-based</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> Larger south-west swell; light offshore winds; smaller, sheltered waves</li>\n<li><strong>Access:</strong> Easy village access to beach areas</li>\n<li><strong>Parking:</strong> Village paid parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Hope+Cove+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Hope+Cove+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Hope Cove, South Devon, UK",
+      "latitude": "50.245",
+      "longitude": "-3.859",
+      "website": "https://www.google.com/search?q=Hope+Cove+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-hope-cove",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "north-sands-salcombe",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "North Sands, Salcombe",
+      "url": "https://www.google.com/search?q=North+Sands%2C+Salcombe+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner",
+      "content": "<p>A sheltered Salcombe beach that may offer small waves in the right conditions. Better for relaxed water time than serious surf.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, scenic and gentle</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Larger south/south-west swell; light winds; small clean days</li>\n<li><strong>Access:</strong> Easy access from Salcombe road and beach</li>\n<li><strong>Parking:</strong> Limited nearby parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=North+Sands%2C+Salcombe+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=North+Sands%2C+Salcombe+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "North Sands, Salcombe, South Devon, UK",
+      "latitude": "50.232",
+      "longitude": "-3.773",
+      "website": "https://www.google.com/search?q=North+Sands%2C+Salcombe+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "smallThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "largeThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "originalThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "images": [
+        {
+          "id": "img-north-sands-salcombe",
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "beer-point",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Beer Point",
+      "url": "https://www.google.com/search?q=Beer+Point+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Intermediate to Advanced",
+      "content": "<p>A more specialised East Devon spot that can work in specific conditions. Not a routine beginner beach and requires careful local assessment.</p>\n<ul>\n<li><strong>Vibe:</strong> East Devon point-style and condition-dependent</li>\n<li><strong>Experience level:</strong> Intermediate to Advanced</li>\n<li><strong>Best conditions:</strong> Strong groundswell with suitable wind and tide; check rocks</li>\n<li><strong>Access:</strong> Access from Beer village/coast paths</li>\n<li><strong>Parking:</strong> Village parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Beer+Point+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Beer+Point+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Beer Point, South Devon, UK",
+      "latitude": "50.694",
+      "longitude": "-3.092",
+      "website": "https://www.google.com/search?q=Beer+Point+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "images": [
+        {
+          "id": "img-beer-point",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "paignton-sands",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Paignton Sands",
+      "url": "https://www.google.com/search?q=Paignton+Sands+surf+forecast",
+      "categories": [
+        "South Devon"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "South Devon surf spot • Beginner",
+      "content": "<p>A sheltered town beach that can occasionally produce small rideable waves. Good as an easy-access check in rare suitable conditions.</p>\n<ul>\n<li><strong>Vibe:</strong> Accessible, sheltered and family-focused</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Larger swell events; cleaner with offshore/light winds</li>\n<li><strong>Access:</strong> Very easy seafront access</li>\n<li><strong>Parking:</strong> Town/seafront paid parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Paignton+Sands+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Paignton+Sands+surf+webcam'>Search live webcam</a> | <a href='https://www.southhams.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Paignton Sands, South Devon, UK",
+      "latitude": "50.436",
+      "longitude": "-3.562",
+      "website": "https://www.google.com/search?q=Paignton+Sands+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-paignton-sands",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    }
+  ],
+  "next_page": null,
+  "generated_in": "static",
+  "stat": "ok"
+}

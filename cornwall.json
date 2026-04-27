@@ -1,0 +1,1030 @@
+{
+  "items": [
+    {
+      "id": "fistral-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Fistral Beach",
+      "url": "https://www.google.com/search?q=Fistral+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • All levels",
+      "content": "<p>Cornwall’s best-known surf beach, with consistent Atlantic swell, surf schools and powerful peaks when conditions are on.</p>\n<ul>\n<li><strong>Vibe:</strong> Famous, energetic and surf-focused</li>\n<li><strong>Experience level:</strong> All levels</li>\n<li><strong>Best conditions:</strong> West/north-west swell; offshore easterly winds; check banks and crowds</li>\n<li><strong>Access:</strong> Easy access from Newquay and beach car parks</li>\n<li><strong>Parking:</strong> Paid parking near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Fistral+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Fistral+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Fistral Beach, Cornwall, UK",
+      "latitude": "50.415",
+      "longitude": "-5.075",
+      "website": "https://www.google.com/search?q=Fistral+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-fistral-beach",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "little-fistral",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Little Fistral",
+      "url": "https://www.google.com/search?q=Little+Fistral+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate to Advanced",
+      "content": "<p>A smaller, rockier neighbour to Fistral that can produce quality waves but is less beginner-friendly.</p>\n<ul>\n<li><strong>Vibe:</strong> Rockier, punchier and less forgiving</li>\n<li><strong>Experience level:</strong> Intermediate to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; lower tide windows; watch rocks</li>\n<li><strong>Access:</strong> Walk from Fistral/headland area</li>\n<li><strong>Parking:</strong> Use Fistral/headland parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Little+Fistral+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Little+Fistral+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Little Fistral, Cornwall, UK",
+      "latitude": "50.419",
+      "longitude": "-5.08",
+      "website": "https://www.google.com/search?q=Little+Fistral+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-little-fistral",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "watergate-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Watergate Bay",
+      "url": "https://www.google.com/search?q=Watergate+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Advanced",
+      "content": "<p>A wide beach with consistent surf, plenty of room and exposed conditions. Good for lessons in smaller surf and experienced surfers when size increases.</p>\n<ul>\n<li><strong>Vibe:</strong> Big, open and dramatic</li>\n<li><strong>Experience level:</strong> Beginner to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; all-tide options vary</li>\n<li><strong>Access:</strong> Easy access from beach road and car parks</li>\n<li><strong>Parking:</strong> Paid car parks near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Watergate+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Watergate+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Watergate Bay, Cornwall, UK",
+      "latitude": "50.442",
+      "longitude": "-5.055",
+      "website": "https://www.google.com/search?q=Watergate+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-watergate-bay",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "perranporth-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Perranporth Beach",
+      "url": "https://www.google.com/search?q=Perranporth+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A long sandy beach with plenty of peaks and room to spread out. Popular with learners and families, but can become powerful in bigger swell.</p>\n<ul>\n<li><strong>Vibe:</strong> Spacious, lively and relaxed</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; check rips and banks</li>\n<li><strong>Access:</strong> Easy town access to large beach</li>\n<li><strong>Parking:</strong> Paid car parks in/near town</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Perranporth+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Perranporth+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Perranporth Beach, Cornwall, UK",
+      "latitude": "50.343",
+      "longitude": "-5.155",
+      "website": "https://www.google.com/search?q=Perranporth+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-perranporth-beach",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "crantock-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Crantock Beach",
+      "url": "https://www.google.com/search?q=Crantock+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A scenic beach near Newquay with open sand, river influence and fun surf on the right banks. Check tides and currents carefully.</p>\n<ul>\n<li><strong>Vibe:</strong> Natural, spacious and scenic</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; watch river mouth currents</li>\n<li><strong>Access:</strong> Access from National Trust/local parking and beach paths</li>\n<li><strong>Parking:</strong> Paid/National Trust parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Crantock+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Crantock+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Crantock Beach, Cornwall, UK",
+      "latitude": "50.402",
+      "longitude": "-5.122",
+      "website": "https://www.google.com/search?q=Crantock+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-crantock-beach",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "great-western-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Great Western Beach",
+      "url": "https://www.google.com/search?q=Great+Western+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A central Newquay beach with easy access and approachable surf on smaller days. Often used by surf schools when conditions suit.</p>\n<ul>\n<li><strong>Vibe:</strong> Central, accessible and classic Newquay</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; smaller cleaner days; tide-dependent</li>\n<li><strong>Access:</strong> Beach access from Newquay town</li>\n<li><strong>Parking:</strong> Town/beach parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Great+Western+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Great+Western+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Great Western Beach, Cornwall, UK",
+      "latitude": "50.417",
+      "longitude": "-5.078",
+      "website": "https://www.google.com/search?q=Great+Western+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-great-western-beach",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "towan-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Towan Beach",
+      "url": "https://www.google.com/search?q=Towan+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner",
+      "content": "<p>A sheltered town beach that can suit beginners in small clean conditions. Usually less exposed than Fistral and Watergate.</p>\n<ul>\n<li><strong>Vibe:</strong> Central, sheltered and accessible</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Small west/north-west swell; best when other beaches are too big</li>\n<li><strong>Access:</strong> Easy access from Newquay town</li>\n<li><strong>Parking:</strong> Town parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Towan+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Towan+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Towan Beach, Cornwall, UK",
+      "latitude": "50.416",
+      "longitude": "-5.085",
+      "website": "https://www.google.com/search?q=Towan+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-towan-beach",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "tolcarne-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Tolcarne Beach",
+      "url": "https://www.google.com/search?q=Tolcarne+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A Newquay town beach that can offer fun waves when conditions are manageable. Check tide access and beach space.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, town-based and scenic</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; smaller days; tide-sensitive</li>\n<li><strong>Access:</strong> Steps/access from Newquay seafront</li>\n<li><strong>Parking:</strong> Town parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Tolcarne+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Tolcarne+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Tolcarne Beach, Cornwall, UK",
+      "latitude": "50.418",
+      "longitude": "-5.07",
+      "website": "https://www.google.com/search?q=Tolcarne+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-tolcarne-beach",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "lusty-glaze",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Lusty Glaze",
+      "url": "https://www.google.com/search?q=Lusty+Glaze+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A scenic cove beach in Newquay that can work in the right conditions. Access and tide windows should be checked before travelling.</p>\n<ul>\n<li><strong>Vibe:</strong> Cove-like, scenic and tucked away</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; best smaller and cleaner; tide-sensitive</li>\n<li><strong>Access:</strong> Steep steps/private beach access; check opening/access</li>\n<li><strong>Parking:</strong> Nearby town parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Lusty+Glaze+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Lusty+Glaze+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Lusty Glaze, Cornwall, UK",
+      "latitude": "50.421",
+      "longitude": "-5.063",
+      "website": "https://www.google.com/search?q=Lusty+Glaze+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "images": [
+        {
+          "id": "img-lusty-glaze",
+          "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "mawgan-porth",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Mawgan Porth",
+      "url": "https://www.google.com/search?q=Mawgan+Porth+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A friendly surf beach north of Newquay with a broad sandy bay. Good for learners in smaller surf and fun peaks when banks line up.</p>\n<ul>\n<li><strong>Vibe:</strong> Relaxed, family-friendly and open</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; smaller clean days</li>\n<li><strong>Access:</strong> Easy beach and village access</li>\n<li><strong>Parking:</strong> Paid parking near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Mawgan+Porth+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Mawgan+Porth+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Mawgan Porth, Cornwall, UK",
+      "latitude": "50.466",
+      "longitude": "-5.035",
+      "website": "https://www.google.com/search?q=Mawgan+Porth+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-mawgan-porth",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "holywell-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Holywell Bay",
+      "url": "https://www.google.com/search?q=Holywell+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A large dune-backed beach with open Atlantic exposure. Offers plenty of room but needs careful assessment in bigger surf.</p>\n<ul>\n<li><strong>Vibe:</strong> Wild, spacious and dune-backed</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; beware rips</li>\n<li><strong>Access:</strong> Walk from village/parking through dunes</li>\n<li><strong>Parking:</strong> Paid/local parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Holywell+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Holywell+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Holywell Bay, Cornwall, UK",
+      "latitude": "50.386",
+      "longitude": "-5.142",
+      "website": "https://www.google.com/search?q=Holywell+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "images": [
+        {
+          "id": "img-holywell-bay",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "polzeath-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Polzeath Beach",
+      "url": "https://www.google.com/search?q=Polzeath+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A popular learner and family surf beach with a strong surf-school scene. Can get very busy in summer but is approachable on smaller days.</p>\n<ul>\n<li><strong>Vibe:</strong> Friendly, busy and lesson-focused</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; smaller clean days; check tide space</li>\n<li><strong>Access:</strong> Easy village and beach access</li>\n<li><strong>Parking:</strong> Paid parking close to beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Polzeath+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Polzeath+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Polzeath Beach, Cornwall, UK",
+      "latitude": "50.575",
+      "longitude": "-4.917",
+      "website": "https://www.google.com/search?q=Polzeath+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-polzeath-beach",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "daymer-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Daymer Bay",
+      "url": "https://www.google.com/search?q=Daymer+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner",
+      "content": "<p>A more sheltered bay near Polzeath that can offer small, gentle waves. Better for relaxed beginner practice than serious surf.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, gentle and family-focused</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Larger west swell wrapping in; lighter winds; small waves</li>\n<li><strong>Access:</strong> Easy access from car park and dunes</li>\n<li><strong>Parking:</strong> Paid parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Daymer+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Daymer+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Daymer Bay, Cornwall, UK",
+      "latitude": "50.561",
+      "longitude": "-4.926",
+      "website": "https://www.google.com/search?q=Daymer+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-daymer-bay",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "trebarwith-strand",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Trebarwith Strand",
+      "url": "https://www.google.com/search?q=Trebarwith+Strand+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate",
+      "content": "<p>A spectacular tidal beach that can produce fun surf when the sand and swell align. Tide knowledge is important.</p>\n<ul>\n<li><strong>Vibe:</strong> Dramatic, tidal and scenic</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; check tide carefully as beach disappears</li>\n<li><strong>Access:</strong> Access from village path/road; tide critical</li>\n<li><strong>Parking:</strong> Paid/local parking above beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Trebarwith+Strand+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Trebarwith+Strand+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Trebarwith Strand, Cornwall, UK",
+      "latitude": "50.644",
+      "longitude": "-4.761",
+      "website": "https://www.google.com/search?q=Trebarwith+Strand+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "images": [
+        {
+          "id": "img-trebarwith-strand",
+          "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "widemouth-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Widemouth Bay",
+      "url": "https://www.google.com/search?q=Widemouth+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A broad Bude-area beach with consistent surf and multiple peaks. Popular with learners, surf schools and improvers.</p>\n<ul>\n<li><strong>Vibe:</strong> Accessible, open and consistent</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; many peaks</li>\n<li><strong>Access:</strong> Easy access from car parks along bay</li>\n<li><strong>Parking:</strong> Paid parking near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Widemouth+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Widemouth+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Widemouth Bay, Cornwall, UK",
+      "latitude": "50.791",
+      "longitude": "-4.554",
+      "website": "https://www.google.com/search?q=Widemouth+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "smallThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "largeThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "originalThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "images": [
+        {
+          "id": "img-widemouth-bay",
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "summerleaze-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Summerleaze Beach",
+      "url": "https://www.google.com/search?q=Summerleaze+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A convenient Bude beach with regular surf and easy facilities. Conditions can vary around the river/harbour area.</p>\n<ul>\n<li><strong>Vibe:</strong> Town-based, convenient and lively</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; check river/harbour currents</li>\n<li><strong>Access:</strong> Easy access from Bude town</li>\n<li><strong>Parking:</strong> Paid town/beach parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Summerleaze+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Summerleaze+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Summerleaze Beach, Cornwall, UK",
+      "latitude": "50.831",
+      "longitude": "-4.55",
+      "website": "https://www.google.com/search?q=Summerleaze+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "images": [
+        {
+          "id": "img-summerleaze-beach",
+          "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "crooklets-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Crooklets Beach",
+      "url": "https://www.google.com/search?q=Crooklets+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A popular Bude surf beach with good facilities and regular peaks. Often suitable for lessons when the swell is manageable.</p>\n<ul>\n<li><strong>Vibe:</strong> Fun, accessible and surf-school friendly</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterlies; smaller clean days</li>\n<li><strong>Access:</strong> Easy access from Bude seafront</li>\n<li><strong>Parking:</strong> Paid parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Crooklets+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Crooklets+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Crooklets Beach, Cornwall, UK",
+      "latitude": "50.835",
+      "longitude": "-4.547",
+      "website": "https://www.google.com/search?q=Crooklets+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "images": [
+        {
+          "id": "img-crooklets-beach",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "sandymouth-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Sandymouth Bay",
+      "url": "https://www.google.com/search?q=Sandymouth+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate",
+      "content": "<p>An exposed beach north of Bude with dramatic cliffs and surf potential. Better for confident surfers due to rocks, tide and exposure.</p>\n<ul>\n<li><strong>Vibe:</strong> Rugged, spacious and exposed</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; check rocks and tides</li>\n<li><strong>Access:</strong> Path/steps from National Trust car park</li>\n<li><strong>Parking:</strong> Paid/National Trust parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Sandymouth+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Sandymouth+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Sandymouth Bay, Cornwall, UK",
+      "latitude": "50.864",
+      "longitude": "-4.55",
+      "website": "https://www.google.com/search?q=Sandymouth+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-sandymouth-bay",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "sennen-cove",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Sennen Cove",
+      "url": "https://www.google.com/search?q=Sennen+Cove+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Advanced",
+      "content": "<p>A celebrated far-west Cornwall surf beach with consistent Atlantic swell and beautiful water. Suitable for lessons on small days and more serious surf when bigger.</p>\n<ul>\n<li><strong>Vibe:</strong> Classic, clear-water and Atlantic-facing</li>\n<li><strong>Experience level:</strong> Beginner to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; check rips</li>\n<li><strong>Access:</strong> Easy access from village/beach car park</li>\n<li><strong>Parking:</strong> Paid parking above/near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Sennen+Cove+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Sennen+Cove+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Sennen Cove, Cornwall, UK",
+      "latitude": "50.077",
+      "longitude": "-5.699",
+      "website": "https://www.google.com/search?q=Sennen+Cove+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "images": [
+        {
+          "id": "img-sennen-cove",
+          "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "gwenver-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Gwenver Beach",
+      "url": "https://www.google.com/search?q=Gwenver+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate to Advanced",
+      "content": "<p>A more exposed neighbour to Sennen, often stronger and less forgiving. Excellent in the right conditions for confident surfers.</p>\n<ul>\n<li><strong>Vibe:</strong> Powerful, wild and exposed</li>\n<li><strong>Experience level:</strong> Intermediate to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; experienced surfers in bigger surf</li>\n<li><strong>Access:</strong> Steeper walk down from parking area</li>\n<li><strong>Parking:</strong> Paid/limited parking above beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Gwenver+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Gwenver+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Gwenver Beach, Cornwall, UK",
+      "latitude": "50.081",
+      "longitude": "-5.696",
+      "website": "https://www.google.com/search?q=Gwenver+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-gwenver-beach",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "porthmeor-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Porthmeor Beach",
+      "url": "https://www.google.com/search?q=Porthmeor+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>St Ives’ main surf beach, combining town convenience with consistent Atlantic-facing waves. Popular with learners, visitors and local surfers.</p>\n<ul>\n<li><strong>Vibe:</strong> Arty, town-based and consistent</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light south/east winds; check crowds</li>\n<li><strong>Access:</strong> Easy access from St Ives</li>\n<li><strong>Parking:</strong> Town/beach parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Porthmeor+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Porthmeor+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Porthmeor Beach, Cornwall, UK",
+      "latitude": "50.214",
+      "longitude": "-5.481",
+      "website": "https://www.google.com/search?q=Porthmeor+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-porthmeor-beach",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "gwithian-towans",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Gwithian Towans",
+      "url": "https://www.google.com/search?q=Gwithian+Towans+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Advanced",
+      "content": "<p>A long, exposed stretch with consistent surf and plenty of peaks. Good for all levels depending on size, but rips and wind exposure matter.</p>\n<ul>\n<li><strong>Vibe:</strong> Wide, exposed and consistent</li>\n<li><strong>Experience level:</strong> Beginner to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterlies; check rips and banks</li>\n<li><strong>Access:</strong> Access through dunes from car parks</li>\n<li><strong>Parking:</strong> Paid/local parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Gwithian+Towans+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Gwithian+Towans+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Gwithian Towans, Cornwall, UK",
+      "latitude": "50.221",
+      "longitude": "-5.392",
+      "website": "https://www.google.com/search?q=Gwithian+Towans+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-gwithian-towans",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "godrevy",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Godrevy",
+      "url": "https://www.google.com/search?q=Godrevy+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate to Advanced",
+      "content": "<p>An exposed, scenic surf area at the northern end of St Ives Bay. Can be powerful and is best approached with proper conditions knowledge.</p>\n<ul>\n<li><strong>Vibe:</strong> Wild, exposed and dramatic</li>\n<li><strong>Experience level:</strong> Intermediate to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; watch rocks and currents</li>\n<li><strong>Access:</strong> Access via National Trust parking and paths</li>\n<li><strong>Parking:</strong> Paid/National Trust parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Godrevy+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Godrevy+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Godrevy, Cornwall, UK",
+      "latitude": "50.233",
+      "longitude": "-5.389",
+      "website": "https://www.google.com/search?q=Godrevy+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-godrevy",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "porthtowan-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Porthtowan Beach",
+      "url": "https://www.google.com/search?q=Porthtowan+Beach+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A popular north-coast beach with consistent waves and village facilities. Works well on clean moderate swells but can get heavy.</p>\n<ul>\n<li><strong>Vibe:</strong> Lively, compact and consistent</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; check rips</li>\n<li><strong>Access:</strong> Easy village access</li>\n<li><strong>Parking:</strong> Paid parking close to beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Porthtowan+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Porthtowan+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Porthtowan Beach, Cornwall, UK",
+      "latitude": "50.286",
+      "longitude": "-5.24",
+      "website": "https://www.google.com/search?q=Porthtowan+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "images": [
+        {
+          "id": "img-porthtowan-beach",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "chapel-porth",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Chapel Porth",
+      "url": "https://www.google.com/search?q=Chapel+Porth+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate",
+      "content": "<p>A dramatic cove near St Agnes that can offer quality waves with the right tide and banks. Not ideal for beginners when conditions are strong.</p>\n<ul>\n<li><strong>Vibe:</strong> Dramatic, tidal and rugged</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterlies; tide and rocks important</li>\n<li><strong>Access:</strong> Access from National Trust car park/path</li>\n<li><strong>Parking:</strong> Paid/National Trust parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Chapel+Porth+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Chapel+Porth+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Chapel Porth, Cornwall, UK",
+      "latitude": "50.3",
+      "longitude": "-5.236",
+      "website": "https://www.google.com/search?q=Chapel+Porth+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-chapel-porth",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "st-agnes-trevaunance-cove",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "St Agnes / Trevaunance Cove",
+      "url": "https://www.google.com/search?q=St+Agnes+%2F+Trevaunance+Cove+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A compact cove with surf potential and a strong coastal village feel. Conditions are tide-dependent and space is more limited than bigger beaches.</p>\n<ul>\n<li><strong>Vibe:</strong> Characterful, village-based and scenic</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light offshore winds; tide-sensitive</li>\n<li><strong>Access:</strong> Easy village/beach access</li>\n<li><strong>Parking:</strong> Paid/local parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=St+Agnes+%2F+Trevaunance+Cove+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=St+Agnes+%2F+Trevaunance+Cove+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "St Agnes / Trevaunance Cove, Cornwall, UK",
+      "latitude": "50.315",
+      "longitude": "-5.204",
+      "website": "https://www.google.com/search?q=St+Agnes+%2F+Trevaunance+Cove+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "images": [
+        {
+          "id": "img-st-agnes-trevaunance-cove",
+          "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "porthleven",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Porthleven",
+      "url": "https://www.google.com/search?q=Porthleven+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Advanced",
+      "content": "<p>A renowned Cornish reef/harbour-area wave that can be powerful and serious. Best for advanced surfers with local understanding.</p>\n<ul>\n<li><strong>Vibe:</strong> Heavy, famous and expert-only on bigger days</li>\n<li><strong>Experience level:</strong> Advanced</li>\n<li><strong>Best conditions:</strong> Powerful groundswell; offshore northerly/easterly winds; reef knowledge essential</li>\n<li><strong>Access:</strong> Access from town/harbour area; rocks and crowds</li>\n<li><strong>Parking:</strong> Town parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Porthleven+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Porthleven+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Porthleven, Cornwall, UK",
+      "latitude": "50.083",
+      "longitude": "-5.315",
+      "website": "https://www.google.com/search?q=Porthleven+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "images": [
+        {
+          "id": "img-porthleven",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "praa-sands",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Praa Sands",
+      "url": "https://www.google.com/search?q=Praa+Sands+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Advanced",
+      "content": "<p>A south-coast beach that can get solid surf, especially when swell direction suits. Good for a range of abilities depending on size.</p>\n<ul>\n<li><strong>Vibe:</strong> Open, sandy and punchy</li>\n<li><strong>Experience level:</strong> Beginner to Advanced</li>\n<li><strong>Best conditions:</strong> South-west/west swell; light north/east winds; check banks</li>\n<li><strong>Access:</strong> Easy access from village/beach car parks</li>\n<li><strong>Parking:</strong> Paid/local parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Praa+Sands+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Praa+Sands+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Praa Sands, Cornwall, UK",
+      "latitude": "50.103",
+      "longitude": "-5.39",
+      "website": "https://www.google.com/search?q=Praa+Sands+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-praa-sands",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "porthcurno",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Porthcurno",
+      "url": "https://www.google.com/search?q=Porthcurno+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate",
+      "content": "<p>A spectacular beach that can occasionally offer surf in the right conditions. Not a consistent learner spot, but memorable when it works.</p>\n<ul>\n<li><strong>Vibe:</strong> Beautiful, turquoise and condition-dependent</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> West/south-west swell; light northerly/easterly winds; check rips</li>\n<li><strong>Access:</strong> Access from car park via path to beach</li>\n<li><strong>Parking:</strong> Paid parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Porthcurno+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Porthcurno+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Porthcurno, Cornwall, UK",
+      "latitude": "50.044",
+      "longitude": "-5.65",
+      "website": "https://www.google.com/search?q=Porthcurno+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-porthcurno",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "constantine-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Constantine Bay",
+      "url": "https://www.google.com/search?q=Constantine+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate to Advanced",
+      "content": "<p>An exposed bay near Padstow with powerful waves and scenic surroundings. Often better suited to confident surfers than first-timers.</p>\n<ul>\n<li><strong>Vibe:</strong> Open, powerful and scenic</li>\n<li><strong>Experience level:</strong> Intermediate to Advanced</li>\n<li><strong>Best conditions:</strong> West/north-west swell; light easterly winds; watch rips and rocks</li>\n<li><strong>Access:</strong> Access from nearby car parks and paths</li>\n<li><strong>Parking:</strong> Paid/local parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Constantine+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Constantine+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Constantine Bay, Cornwall, UK",
+      "latitude": "50.533",
+      "longitude": "-5.023",
+      "website": "https://www.google.com/search?q=Constantine+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "smallThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "largeThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "originalThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "images": [
+        {
+          "id": "img-constantine-bay",
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "harlyn-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Harlyn Bay",
+      "url": "https://www.google.com/search?q=Harlyn+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A sheltered bay that can be a useful option when exposed north-coast beaches are too large or windy. Popular with surf schools in suitable conditions.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, friendly and useful in storms</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> Larger west/north-west swell wrapping in; good when exposed beaches are too big</li>\n<li><strong>Access:</strong> Easy beach access</li>\n<li><strong>Parking:</strong> Paid parking near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Harlyn+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Harlyn+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Harlyn Bay, Cornwall, UK",
+      "latitude": "50.542",
+      "longitude": "-4.994",
+      "website": "https://www.google.com/search?q=Harlyn+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-harlyn-bay",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "treyarnon-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Treyarnon Bay",
+      "url": "https://www.google.com/search?q=Treyarnon+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Intermediate",
+      "content": "<p>A scenic bay with surf potential, but rocks and tide make careful checking essential. Better for surfers with some experience.</p>\n<ul>\n<li><strong>Vibe:</strong> Rocky, scenic and tidal</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> West/north-west swell; check rocks, rips and tide</li>\n<li><strong>Access:</strong> Access from local car park/path</li>\n<li><strong>Parking:</strong> Paid/local parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Treyarnon+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Treyarnon+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Treyarnon Bay, Cornwall, UK",
+      "latitude": "50.527",
+      "longitude": "-5.025",
+      "website": "https://www.google.com/search?q=Treyarnon+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-treyarnon-bay",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "whitsand-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Whitsand Bay",
+      "url": "https://www.google.com/search?q=Whitsand+Bay+surf+forecast",
+      "categories": [
+        "Cornwall"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Cornwall surf spot • Beginner to Intermediate",
+      "content": "<p>A long south-east Cornwall beach with several access points and plenty of space. Access can be steep and tide planning is important.</p>\n<ul>\n<li><strong>Vibe:</strong> Long, open and less crowded</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South-west/west swell; light northerly/easterly winds; check cliffs/tides</li>\n<li><strong>Access:</strong> Access often via steep paths from cliff car parks</li>\n<li><strong>Parking:</strong> Paid/local cliff-top parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Whitsand+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Whitsand+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.cornwall.gov.uk/transport-parking-and-streets/parking/'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Whitsand Bay, Cornwall, UK",
+      "latitude": "50.35",
+      "longitude": "-4.245",
+      "website": "https://www.google.com/search?q=Whitsand+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "smallThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "largeThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "originalThumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "images": [
+        {
+          "id": "img-whitsand-bay",
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    }
+  ],
+  "next_page": null,
+  "generated_in": "static",
+  "stat": "ok"
+}

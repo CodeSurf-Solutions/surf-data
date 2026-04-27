@@ -1,0 +1,441 @@
+{
+  "items": [
+    {
+      "id": "kimmeridge-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Kimmeridge Bay",
+      "url": "https://www.google.com/search?q=Kimmeridge+Bay+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Intermediate to Advanced",
+      "content": "<p>A well-known Dorset reef setup that can produce long, clean waves in the right conditions. Best for confident surfers with reef experience.</p>\n<ul>\n<li><strong>Vibe:</strong> Reefy, rugged and classic Dorset</li>\n<li><strong>Experience level:</strong> Intermediate to Advanced</li>\n<li><strong>Best conditions:</strong> Groundswell with suitable tide; offshore northerly winds; reef awareness essential</li>\n<li><strong>Access:</strong> Walk/access from bay car park; reef and rocks</li>\n<li><strong>Parking:</strong> Paid car park near bay</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Kimmeridge+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Kimmeridge+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Kimmeridge Bay, Dorset, UK",
+      "latitude": "50.609",
+      "longitude": "-2.118",
+      "website": "https://www.google.com/search?q=Kimmeridge+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-kimmeridge-bay",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "bournemouth-pier",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Bournemouth Pier",
+      "url": "https://www.google.com/search?q=Bournemouth+Pier+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner to Intermediate",
+      "content": "<p>A highly accessible town surf spot that can produce fun waves when swell reaches the bay. Often inconsistent but convenient.</p>\n<ul>\n<li><strong>Vibe:</strong> Urban, accessible and lively</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South/south-west swell; northerly winds; often best in winter storms</li>\n<li><strong>Access:</strong> Very easy seafront access</li>\n<li><strong>Parking:</strong> Town/seafront paid parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Bournemouth+Pier+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Bournemouth+Pier+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Bournemouth Pier, Dorset, UK",
+      "latitude": "50.714",
+      "longitude": "-1.875",
+      "website": "https://www.google.com/search?q=Bournemouth+Pier+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-bournemouth-pier",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "boscombe-pier",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Boscombe Pier",
+      "url": "https://www.google.com/search?q=Boscombe+Pier+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner to Intermediate",
+      "content": "<p>A popular Bournemouth-area surf check with left and right peaks around the pier area when conditions align.</p>\n<ul>\n<li><strong>Vibe:</strong> Urban, regular and social</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South/south-west swell; northerly winds; check sandbanks</li>\n<li><strong>Access:</strong> Easy seafront access</li>\n<li><strong>Parking:</strong> Seafront/town paid parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Boscombe+Pier+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Boscombe+Pier+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Boscombe Pier, Dorset, UK",
+      "latitude": "50.72",
+      "longitude": "-1.843",
+      "website": "https://www.google.com/search?q=Boscombe+Pier+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-boscombe-pier",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "southbourne-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Southbourne Beach",
+      "url": "https://www.google.com/search?q=Southbourne+Beach+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner to Intermediate",
+      "content": "<p>A quieter alternative to central Bournemouth, with open beach peaks on the right swell. Good for checking when the bay is working.</p>\n<ul>\n<li><strong>Vibe:</strong> Local, open and relaxed</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South/south-west swell; northerly winds; winter swells often best</li>\n<li><strong>Access:</strong> Easy cliff/seafront access via paths/lifts</li>\n<li><strong>Parking:</strong> Seafront/cliff-top parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Southbourne+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Southbourne+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Southbourne Beach, Dorset, UK",
+      "latitude": "50.724",
+      "longitude": "-1.801",
+      "website": "https://www.google.com/search?q=Southbourne+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-southbourne-beach",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "branksome-dene",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Branksome Dene",
+      "url": "https://www.google.com/search?q=Branksome+Dene+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner",
+      "content": "<p>A gentler Poole/Bournemouth beach option that may suit learners on small clean days. Usually more sheltered and less powerful.</p>\n<ul>\n<li><strong>Vibe:</strong> Gentle, accessible and family-friendly</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Small south/south-west swell; light offshore winds</li>\n<li><strong>Access:</strong> Easy beach access from chine/car park</li>\n<li><strong>Parking:</strong> Paid parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Branksome+Dene+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Branksome+Dene+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Branksome Dene, Dorset, UK",
+      "latitude": "50.705",
+      "longitude": "-1.916",
+      "website": "https://www.google.com/search?q=Branksome+Dene+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-branksome-dene",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "highcliffe-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Highcliffe Beach",
+      "url": "https://www.google.com/search?q=Highcliffe+Beach+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner to Intermediate",
+      "content": "<p>A scenic Dorset/Hampshire-border surf check with waves in suitable swell. Watch groynes, shorebreak and tide state.</p>\n<ul>\n<li><strong>Vibe:</strong> Scenic, relaxed and cliff-backed</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South/south-west swell; northerly winds; check tide and groynes</li>\n<li><strong>Access:</strong> Access from cliff paths and beach routes</li>\n<li><strong>Parking:</strong> Paid/local parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Highcliffe+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Highcliffe+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Highcliffe Beach, Dorset, UK",
+      "latitude": "50.735",
+      "longitude": "-1.704",
+      "website": "https://www.google.com/search?q=Highcliffe+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "originalThumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "images": [
+        {
+          "id": "img-highcliffe-beach",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "avon-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Avon Beach",
+      "url": "https://www.google.com/search?q=Avon+Beach+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner",
+      "content": "<p>A sheltered beach that can provide small waves in the right conditions. Better for gentle practice than consistent surf.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, family-friendly and gentle</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Larger swell wrapping into Christchurch Bay; light offshore winds</li>\n<li><strong>Access:</strong> Easy seafront access</li>\n<li><strong>Parking:</strong> Paid parking nearby</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Avon+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Avon+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Avon Beach, Dorset, UK",
+      "latitude": "50.728",
+      "longitude": "-1.743",
+      "website": "https://www.google.com/search?q=Avon+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "images": [
+        {
+          "id": "img-avon-beach",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "mudeford-sandbank",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Mudeford Sandbank",
+      "url": "https://www.google.com/search?q=Mudeford+Sandbank+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Intermediate",
+      "content": "<p>A more specialist Christchurch Harbour-area option where access and currents matter. Best treated as a careful conditions check.</p>\n<ul>\n<li><strong>Vibe:</strong> Tidal, sheltered and unusual</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> Larger swell with correct tide/wind; beware harbour currents</li>\n<li><strong>Access:</strong> Access by ferry/walk depending route; tide matters</li>\n<li><strong>Parking:</strong> Parking at Mudeford/Christchurch options plus onward access</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Mudeford+Sandbank+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Mudeford+Sandbank+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Mudeford Sandbank, Dorset, UK",
+      "latitude": "50.724",
+      "longitude": "-1.735",
+      "website": "https://www.google.com/search?q=Mudeford+Sandbank+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "images": [
+        {
+          "id": "img-mudeford-sandbank",
+          "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "swanage-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Swanage Bay",
+      "url": "https://www.google.com/search?q=Swanage+Bay+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner",
+      "content": "<p>A sheltered bay that only works occasionally for small surf. More useful for relaxed water time than regular surfing.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, scenic and gentle</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Rare/large south-easterly or channel swell; light offshore winds</li>\n<li><strong>Access:</strong> Easy town/beach access</li>\n<li><strong>Parking:</strong> Town parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Swanage+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Swanage+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Swanage Bay, Dorset, UK",
+      "latitude": "50.608",
+      "longitude": "-1.956",
+      "website": "https://www.google.com/search?q=Swanage+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-swanage-bay",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "durlston-bay",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Durlston Bay",
+      "url": "https://www.google.com/search?q=Durlston+Bay+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Intermediate",
+      "content": "<p>A specialised, less routine surf check near Swanage. Rocks and access mean it is not a beginner-friendly main option.</p>\n<ul>\n<li><strong>Vibe:</strong> Rocky, scenic and condition-dependent</li>\n<li><strong>Experience level:</strong> Intermediate</li>\n<li><strong>Best conditions:</strong> Specific swell windows; check rocks, tide and access</li>\n<li><strong>Access:</strong> Access via paths; conditions must be assessed carefully</li>\n<li><strong>Parking:</strong> Town/country park parking options</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Durlston+Bay+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Durlston+Bay+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Durlston Bay, Dorset, UK",
+      "latitude": "50.602",
+      "longitude": "-1.954",
+      "website": "https://www.google.com/search?q=Durlston+Bay+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-durlston-bay",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "weymouth-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Weymouth Beach",
+      "url": "https://www.google.com/search?q=Weymouth+Beach+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner",
+      "content": "<p>A sheltered town beach that can occasionally produce small waves. Primarily a beginner-friendly and family beach rather than a consistent surf spot.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, accessible and family-focused</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Rare/large channel swell; light offshore winds</li>\n<li><strong>Access:</strong> Very easy town seafront access</li>\n<li><strong>Parking:</strong> Town/seafront paid parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Weymouth+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Weymouth+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Weymouth Beach, Dorset, UK",
+      "latitude": "50.612",
+      "longitude": "-2.452",
+      "website": "https://www.google.com/search?q=Weymouth+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "originalThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "images": [
+        {
+          "id": "img-weymouth-beach",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "chesil-beach",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Chesil Beach",
+      "url": "https://www.google.com/search?q=Chesil+Beach+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Advanced",
+      "content": "<p>A steep shingle beach famous for powerful shorebreak. Not suitable for casual beginners and should only be entered in safe, appropriate conditions.</p>\n<ul>\n<li><strong>Vibe:</strong> Powerful, steep and exposed</li>\n<li><strong>Experience level:</strong> Advanced</li>\n<li><strong>Best conditions:</strong> Large swell; serious shorebreak; expert assessment required</li>\n<li><strong>Access:</strong> Access from designated points; shingle beach can be hazardous</li>\n<li><strong>Parking:</strong> Paid/local parking at access points</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Chesil+Beach+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Chesil+Beach+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Chesil Beach, Dorset, UK",
+      "latitude": "50.606",
+      "longitude": "-2.52",
+      "website": "https://www.google.com/search?q=Chesil+Beach+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "originalThumbnail": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "images": [
+        {
+          "id": "img-chesil-beach",
+          "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "charmouth",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Charmouth",
+      "url": "https://www.google.com/search?q=Charmouth+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner to Intermediate",
+      "content": "<p>A scenic Jurassic Coast beach that can offer small surf in the right conditions. Conditions are variable and cliff safety should be respected.</p>\n<ul>\n<li><strong>Vibe:</strong> Jurassic Coast, scenic and variable</li>\n<li><strong>Experience level:</strong> Beginner to Intermediate</li>\n<li><strong>Best conditions:</strong> South/south-west swell; light northerly winds; check beach and fossils/cliffs zones</li>\n<li><strong>Access:</strong> Easy village/beach access</li>\n<li><strong>Parking:</strong> Paid parking near beach</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Charmouth+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Charmouth+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Charmouth, Dorset, UK",
+      "latitude": "50.739",
+      "longitude": "-2.9",
+      "website": "https://www.google.com/search?q=Charmouth+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "originalThumbnail": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9",
+      "images": [
+        {
+          "id": "img-charmouth",
+          "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    },
+    {
+      "id": "lyme-regis",
+      "type": "maps",
+      "subtype": "custom",
+      "title": "Lyme Regis",
+      "url": "https://www.google.com/search?q=Lyme+Regis+surf+forecast",
+      "categories": [
+        "Dorset"
+      ],
+      "date": "2026-04-27T14:50:44.296134+00:00",
+      "author": "CodeSurf Solutions",
+      "summary": "Dorset surf spot • Beginner",
+      "content": "<p>A sheltered bay that occasionally sees small rideable waves. More suited to gentle water sessions than reliable surf.</p>\n<ul>\n<li><strong>Vibe:</strong> Sheltered, historic and gentle</li>\n<li><strong>Experience level:</strong> Beginner</li>\n<li><strong>Best conditions:</strong> Rare/large swell wrapping into the bay; light offshore winds</li>\n<li><strong>Access:</strong> Easy town/seafront access</li>\n<li><strong>Parking:</strong> Town/seafront paid parking</li>\n</ul>\n<p><a href='https://www.google.com/search?q=Lyme+Regis+surf+forecast'>Check surf forecast</a> | <a href='https://www.google.com/search?q=Lyme+Regis+surf+webcam'>Search live webcam</a> | <a href='https://www.dorsetcouncil.gov.uk/parking'>Parking information</a></p>\n<p><em>Safety note: surf conditions change quickly. Check tide, wind, swell and local lifeguard guidance before entering the water.</em></p>",
+      "address": "Lyme Regis, Dorset, UK",
+      "latitude": "50.725",
+      "longitude": "-2.935",
+      "website": "https://www.google.com/search?q=Lyme+Regis+surf+forecast",
+      "phoneNumber": "",
+      "email": "",
+      "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "smallThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "largeThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "originalThumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "images": [
+        {
+          "id": "img-lyme-regis",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ],
+      "pinIconColor": "#0077B6"
+    }
+  ],
+  "next_page": null,
+  "generated_in": "static",
+  "stat": "ok"
+}
